@@ -25,6 +25,9 @@ A React-based application for managing countries, states, and cities in a hierar
 
 4. **Confirmation Dialogs**:
    - Confirmation prompts for delete and edit actions to prevent accidental data loss.
+  
+5. **Deployment**:
+   - The application is deployed on Netlify and can be accessed [here](https://country-state-and-city-management-app.netlify.app/)
 
 ---
 
@@ -153,13 +156,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Open a pull request.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
